@@ -41,7 +41,7 @@ def getCloseDataAvg(symbol,days):
     avgStockPrice=mean(priceList)
     print(f"{days} day average closing {symbol} Price ${avgStockPrice}")
 
-#TODO: move what symbol number of days to command line
+#TODO: move what symbol and number of days to command line
 getCloseDataAvg(symbol="GOOG",days=5)
 
 
