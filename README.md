@@ -2,6 +2,9 @@ This app retrieves the last 5 days of data for GOOG and returns the average clos
 
 # How to run
 
+This assumes you already have docker installed and functional on your computer. 
+
+
 `git clone git@github.com:mbhewitt/ID.me_takehome.git`
 
 `cd ID.me_takehome`
